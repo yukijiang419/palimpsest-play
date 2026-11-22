@@ -22,4 +22,4 @@
 | 地图 | M |
 | 菜单 | Esc |
 
-墨尔本大学 COMP30019 课程（2026）三人团队项目：Binglin Li、Yiming Zheng、Xiaoqi Jiang。© 2026，保留所有权利。
+2026 年三人团队项目：Binglin Li、Yiming Zheng、Xiaoqi Jiang。© 2026，保留所有权利。
